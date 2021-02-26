@@ -1,0 +1,182 @@
+.h100 {
+    height: 100vh;
+}
+
+.h500 {
+    height: 500px;
+}
+
+.h800 {
+    height: 900px;
+}
+
+.h300 {
+    height: 300px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.hw500 {
+    width: 674px;
+    height: 500px;
+}
+
+.w700 {
+    width: 700px;
+}
+
+.bgblack {
+    background-color: black;
+}
+
+.bg1 {
+    background-color: rgb(221, 214, 109);
+}
+
+.bg3 {
+    background-image: url('https://image.freepik.com/free-photo/copy-space-ice-cream-cone_23-2148505934.jpg');
+    background-size: cover;
+}
+
+.bg4 {
+    background-image: url('https://img.freepik.com/free-photo/colorful-ice-cream-sticks-composition_23-2148642270.jpg?size=626&ext=jpg&ga=GA1.2.1762758032.1576918565');
+    background-size: cover;
+}
+
+.bg5 {
+    background-image: url('https://img.freepik.com/free-photo/top-view-bowls-with-ice-cream-with-copy-space_23-2148539431.jpg?size=626&ext=jpg&uid=R35138069&ga=GA1.2.1762758032.1576918565');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bfixed {
+    background-attachment: fixed;
+}
+
+.backc {
+    color: rgb(var(--color_11));
+}
+
+.p0 {
+    padding: 0;
+}
+
+.margint {
+    margin-top: 50px;
+}
+
+.ml300 {
+    margin-left: 300px;
+}
+
+.ml130 {
+    margin-left: 130px;
+}
+
+.fcwhite {
+    color: white;
+}
+
+.fsize50 {
+    font-size: 165px;
+    position: relative;
+    top: -410px;
+    left: -130px;
+}
+
+.mtop {
+    position: relative;
+    top: -50px;
+    width: 700px;
+}
+
+.mtop1 {
+    position: relative;
+    width: 900px;
+}
+
+.mtop2 {
+    position: relative;
+    width: 900px;
+    left: 50PX;
+}
+
+.fsize145 {
+    font-size: 165px;
+    left: -130px;
+}
+
+.fontset {
+    position: relative;
+    font-size: 165px;
+    left: 150px;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+}
+
+.icon5 {
+    padding: 10px;
+}
+
+.textp {
+    position: relative;
+    top: -315px;
+}
+
+.imgp {
+    width: 337px;
+    height: 300px;
+    background-size: cover;
+}
+
+.backimg {
+    background-size: cover;
+}
+
+.backimg1 {
+    width: 300px;
+    height: 300px;
+    background: none;
+}
+
+.bimg {
+    background-size: cover;
+}
+
+.label {
+    width: 300px;
+    height: 40px;
+    border: 3px solid white;
+    color: white;
+}
+
+.bt {
+    width: 300px;
+    height: 40px;
+    background: none;
+    color: white;
+    border: 3px solid white;
+}
+
+.bt:hover {
+    background-color: blue;
+}
+
+.bt1 {
+    width: 145px;
+}
+
+.btn {
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-left: 600px;
+    margin-top: 50px;
+}
